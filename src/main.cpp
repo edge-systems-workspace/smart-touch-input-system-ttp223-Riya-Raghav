@@ -2,8 +2,8 @@
 /**
  * @file main.ino
  * @brief Embedded Touch Detection System using TTP223
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author RIYA RAGHAV
+ * @date 2026-02-20
  *
  * @details
  * Reads digital touch input from TTP223 sensor
