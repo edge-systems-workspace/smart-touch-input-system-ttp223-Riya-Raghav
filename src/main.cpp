@@ -1,4 +1,6 @@
 #include <Arduino.h>
+int touchPin = 5;
+int ledPin = 13;
 /**
  * @file main.ino
  * @brief Embedded Touch Detection System using TTP223
