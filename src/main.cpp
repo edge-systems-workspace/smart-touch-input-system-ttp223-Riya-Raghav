@@ -19,15 +19,9 @@ int ledPin = 13;
  // Create variable to store touch state
 
 void setup() {
-
-    // TODO 3:
-    // Initialize Serial communication (9600 baud rate)
-
-    // TODO 4:
-    // Configure touch pin as INPUT
-
-    // TODO 5:
-    // Print system initialization message
+    pinMode(touchPin,INPUT);
+    pinMode(ledPin,OUTPUT);
+    Serial.begin(9600);
 }
 
 void loop() {
